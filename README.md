@@ -1,6 +1,6 @@
 [![MasterHead](https://images.unsplash.com/photo-1542831371-32f555c86880?h=500&w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Daibert Ramírez</h1>
-<h3 align="center">Telecommunications engineer with 8 years of experience, excelling in managerial roles in my latest position. Transitioning to full-stack web development, I blend advanced technical skills with a strong management foundation to deliver comprehensive and efficient solutions in programming. Passionate about innovation and problem-solving, I am seeking exciting opportunities in the field of web development.</h3>
+<h3 align="center">Embarking on a new journey, programming has become my compass. With a background in telecommunications engineering and over 8 years of hands-on experience, excelling in managerial roles in my latest position, my recent shift from operational management to coding signifies a deliberate pivot toward a fresh and promising direction. Passionate about innovation and problem-solving, I am seeking exciting opportunities in the field of web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daibertj&label=Profile%20views&color=0e75b6&style=flat" alt="daibertj" /> </p>
